@@ -1,0 +1,10 @@
+# node 
+**/node_modules/**
+
+# svelte
+.svelte-kit
+
+.DS_Store
+
+#pnpm
+pnpm-workspace.yaml
